@@ -1,20 +1,29 @@
-\contentsline {section}{\numberline {1}Introduction}{1}{section.1}%
-\contentsline {section}{\numberline {2}Section}{2}{section.2}%
-\contentsline {subsection}{\numberline {2.1}Một số lưu ý}{2}{subsection.2.1}%
-\contentsline {subsubsection}{\numberline {2.1.1}Cài đặt offline}{2}{subsubsection.2.1.1}%
-\contentsline {subsubsection}{\numberline {2.1.2}Sử dụng font khác}{2}{subsubsection.2.1.2}%
-\contentsline {subsubsection}{\numberline {2.1.3}Đánh số chỉ mục bằng chữ số La Mã}{2}{subsubsection.2.1.3}%
-\contentsline {subsection}{\numberline {2.2}Ví dụ}{2}{subsection.2.2}%
-\contentsline {subsection}{\numberline {2.3}First subsection}{3}{subsection.2.3}%
-\contentsline {subsubsection}{\numberline {2.3.1}First sub-subsection}{3}{subsubsection.2.3.1}%
-\contentsline {paragraph}{Đây là ví dụ cho paragraph}{3}{section*.4}%
-\contentsline {subsection}{\numberline {2.4}Chia nhỏ nội dung}{3}{subsection.2.4}%
-\contentsline {section}{\numberline {3}Hình ảnh}{3}{section.3}%
-\contentsline {section}{\numberline {4}Bảng biểu}{4}{section.4}%
-\contentsline {section}{\numberline {5}Công thức toán}{5}{section.5}%
-\contentsline {section}{\numberline {6}Thuật toán}{6}{section.6}%
-\contentsline {section}{\numberline {7}Code}{6}{section.7}%
-\contentsline {section}{\numberline {8}Ngôn ngữ}{7}{section.8}%
-\contentsline {section}{\numberline {9}Sử dụng tài liệu tham khảo}{7}{section.9}%
-\contentsline {section}{Tài liệu}{8}{section*.5}%
-\contentsline {section}{\numberline {A}Phụ lục}{8}{appendix.A}%
+\contentsline {section}{\numberline {1}Concepts, ADT \& Algorithms}{1}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Evaluationg Postfix Expressions}{1}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Indix to Postfix}{1}{subsection.1.2}%
+\contentsline {section}{\numberline {2}Algorithmal Complexity Analysis}{2}{section.2}%
+\contentsline {section}{\numberline {3}Sorting Algorithms}{2}{section.3}%
+\contentsline {section}{\numberline {4}Searching Algorithms}{2}{section.4}%
+\contentsline {section}{\numberline {5}Data Structures: Stack, Queue, Pointer, Linked List, Tree}{2}{section.5}%
+\contentsline {section}{\numberline {6}Data Compression Algorithms}{2}{section.6}%
+\contentsline {section}{\numberline {7}Hasing Algorithms}{2}{section.7}%
+\contentsline {section}{\numberline {8}String-matching Algorithms}{2}{section.8}%
+\contentsline {section}{\numberline {9}Section}{3}{section.9}%
+\contentsline {subsection}{\numberline {9.1}Một số lưu ý}{3}{subsection.9.1}%
+\contentsline {subsubsection}{\numberline {9.1.1}Cài đặt offline}{3}{subsubsection.9.1.1}%
+\contentsline {subsubsection}{\numberline {9.1.2}Sử dụng font khác}{3}{subsubsection.9.1.2}%
+\contentsline {subsubsection}{\numberline {9.1.3}Đánh số chỉ mục bằng chữ số La Mã}{3}{subsubsection.9.1.3}%
+\contentsline {subsection}{\numberline {9.2}Ví dụ}{3}{subsection.9.2}%
+\contentsline {subsection}{\numberline {9.3}First subsection}{4}{subsection.9.3}%
+\contentsline {subsubsection}{\numberline {9.3.1}First sub-subsection}{4}{subsubsection.9.3.1}%
+\contentsline {paragraph}{Đây là ví dụ cho paragraph}{4}{section*.4}%
+\contentsline {subsection}{\numberline {9.4}Chia nhỏ nội dung}{4}{subsection.9.4}%
+\contentsline {section}{\numberline {10}Hình ảnh}{4}{section.10}%
+\contentsline {section}{\numberline {11}Bảng biểu}{5}{section.11}%
+\contentsline {section}{\numberline {12}Công thức toán}{6}{section.12}%
+\contentsline {section}{\numberline {13}Thuật toán}{7}{section.13}%
+\contentsline {section}{\numberline {14}Code}{7}{section.14}%
+\contentsline {section}{\numberline {15}Ngôn ngữ}{8}{section.15}%
+\contentsline {section}{\numberline {16}Sử dụng tài liệu tham khảo}{8}{section.16}%
+\contentsline {section}{Tài liệu}{9}{section*.5}%
+\contentsline {section}{\numberline {A}Phụ lục}{9}{appendix.A}%

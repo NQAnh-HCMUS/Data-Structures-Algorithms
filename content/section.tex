@@ -1,4 +1,53 @@
-\section{Introduction}
+\section{Concepts, ADT \& Algorithms}
+\subsection{Evaluationg Postfix Expressions}
+Expressions can also be represented using postfix notations - where an operator comes after its operands
+- The advantage of postfix notation is that the order of operation evaluation is unique without the need for precendence rules or parentheses
+Example:
+% \begin{table}
+% \centering
+% \begin{tabular}{|c|c|c|c|}
+% \hline
+% \textbf{Infix Expression} & \textbf{Postfix Expression}
+% \end{table}
+\subsection{Indix to Postfix}
+Algorithm:
+\begin{itemize}
+    \item Read a token
+    \item If operand, output (enqueue) to queue
+    \item If '$()$', push the '$()$' to stack
+    \item If operator
+    \begin{itemize}
+        \item If the operator ar the top has greater than or equal precedence, pop operators from the stack and enqueue to the queue until encounter a '$()$' or the stack is empty
+        \item push the new operator
+    \end{itemize}
+    \item If '$()$', pop and outoput until '$()$' has been popped
+    \item Repeat until end of input
+    \item Pop rest of stack
+\end{itemize}
+\textbf{Example}: $7 + 8 \times [(3 - 1) / 2 + 1 \times 2] - 3 \times 4 / (3 - 1)$\\
+\textbf{Answer}: $7\quad8\quad3\quad1\quad-\quad2\quad/\quad1\quad2\quad\times\quad+\quad\times\quad+\quad3\quad4\quad\times\quad3\quad\quad1\quad-\quad/\quad-$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\newpage
+\section{Algorithmal Complexity Analysis}
+\section{Sorting Algorithms}
+\section{Searching Algorithms}
+\section{Data Structures: Stack, Queue, Pointer, Linked List, Tree}
+\section{Data Compression Algorithms}
+\section{Hasing Algorithms}
+\section{String-matching Algorithms}
 
 
 
